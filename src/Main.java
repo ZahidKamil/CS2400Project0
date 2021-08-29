@@ -12,8 +12,8 @@ public class Main {
         int[] returnedArray = readIntegers(count);
         int returnedMin = findMin(returnedArray);
 
-        System.out.println("min = " + ierhoishgoihriohrgoih);
-
+        System.out.println("min = " + returnedMin);
+        //Done
     }
 
     private static int[] readIntegers(int count) {
