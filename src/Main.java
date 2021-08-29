@@ -12,7 +12,7 @@ public class Main {
         int[] returnedArray = readIntegers(count);
         int returnedMin = findMin(returnedArray);
 
-        System.out.println("min = " + returnedMin);
+        System.out.println("min = " + ierhoishgoihriohrgoih);
 
     }
 
